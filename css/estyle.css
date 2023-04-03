@@ -65,15 +65,15 @@ a{
     position: relative;
 }
 
-.navlist a{
+.navlist li a{
     font-size: 1.2rem;
     color: var(--text-color);
-    font-weight: 400;
+    font-weight: 500;
     padding: 5px 15px;
     transition: 0.3s ease;
 }
 
-.navlist a:hover{
+.navlist li a:hover{
     color: #0ABAB5;
 }
 
@@ -279,8 +279,8 @@ header.sticky{
 }
 
 .especial-img img{
-    max-width: 100%;
-    width: 490px;
+    max-width: 110%;
+    width: 500px;
     height: auto;
 }
 
@@ -374,7 +374,7 @@ header.sticky{
 
 .footer .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(170px, auto));
     gap: 4rem;
 }
 
@@ -397,6 +397,7 @@ header.sticky{
     font-size: 1.5rem;
     padding-bottom: 1.5rem;
     display: block;
+    font-weight: 300;
 }
 
 .footer .box-container .box a i{
@@ -412,10 +413,32 @@ header.sticky{
 
 .footer-img img{
     max-width: 100%;
-    width: 95px;
+    width: 140px;
     height: auto;
+    margin-bottom: 40px;
 
 }
+
+.social a{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #2C7D7A;
+    font-size: 15px;
+    color: var(--bg-color);
+    margin-right: 22px;
+    margin-bottom: 30px;
+}
+
+.social a:hover{
+    transform: scale(1.1);
+    background: #0ABAB5;
+    transition: .5s;
+}
+
 
 .ends{
     text-align: center;
@@ -489,19 +512,19 @@ header.sticky{
         text-align: right;
         transition: all .40s;
     }
-    .navlist a{
+    .navlist li a{
         display: block;
         padding: 1.2rem;
         margin: 1.5rem;
         border-right: 2px solid var(--bg-color);
         color: var(--bg-color);
     }
-    .navlist a:hover{
+    .navlist li a:hover{
         background: var(--bg-color);
         color: var(--main-color);
     }
 
-    .navlist a::after{
+    .navlist li a::after{
         display: none;
     }
 
@@ -513,7 +536,10 @@ header.sticky{
 @media (max-width: 800px){
     .top-btn::before{
         font-size: 1rem;
-        content: "FORMULARIO";
+        content: "FORMULÁRIO";
+    }
+    .btn-receita .btn{
+        align-items: center;
     }
     .home{
         grid-template-columns: 1fr;
@@ -535,7 +561,26 @@ header.sticky{
     }
     .receita-img{
         text-align: center;
-        margin-bottom: 30px;
+        max-width: 100%;
+        width: 320px;
+        height: auto;
+    }
+    .especial-img img{
+        max-width: 100%;
+        width: 480px;
+        height: auto;
+    }
+    h3{
+        font-size: 3rem;
+    }
+    .footer {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .footer-img{
+        text-align: center;
+        justify-content: center;
     }
     :root{
         --big-font: 3.4rem;
