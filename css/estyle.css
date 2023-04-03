@@ -129,6 +129,7 @@ section{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
+    grid-gap: 4rem;
 }
 
 .home-text h1{
@@ -552,16 +553,17 @@ header.sticky{
         text-align: center;
     }
     .home-img img{
-        width: 440px;
+        max-width: 100%;
+        width: 500px;
         height: auto;
+        margin-bottom: 110px;
     }
     .receita{
         grid-template-columns: 1fr;
     }
-    .receita-img{
-        text-align: center;
+    .receita-img img{
         max-width: 100%;
-        width: 320px;
+        width: 300px;
         height: auto;
     }
     .especial-img img{
