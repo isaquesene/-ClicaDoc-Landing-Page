@@ -629,7 +629,7 @@ header.sticky{
 @media (max-width: 800px){
     .top-btn::before{
         font-size: 1rem;
-        content: "FORMULÁRIO";
+        content: "ATENDIMENTO";
     }
     .btn-receita .btn{
         align-items: center;
