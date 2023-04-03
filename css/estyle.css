@@ -129,7 +129,6 @@ section{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    grid-gap: 4rem;
 }
 
 .home-text h1{
