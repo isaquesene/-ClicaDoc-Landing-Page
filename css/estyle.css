@@ -20,7 +20,7 @@
     --main-color: #11274e;
     --big-font: 5rem;
     --h2-font: 3rem;
-    --p-font: 1.5rem;
+    --p-font: 1.6rem;
     --p-btn: 1.2rem;
 }
 
@@ -320,6 +320,8 @@ header.sticky{
     color: var(--text-color);
     line-height: 20px;
     text-align: justify;
+    text-justify: inter-word;
+    margin: 0 auto;
 }
 
 .sub-box:hover{
@@ -366,6 +368,8 @@ header.sticky{
     line-height: 28px;
     margin-bottom: 20px;
     text-align: justify;
+    text-justify: inter-word;
+    margin: 0 auto;
     justify-content: center;
 }
 
@@ -570,7 +574,7 @@ header.sticky{
   background: #fff;
   padding: 25px 25px 30px 25px;
   border-radius: 15px;
-  box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.15);
+  box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.30);
   text-align: center;
 }
 .wrapper.hide{
@@ -596,6 +600,7 @@ header.sticky{
 .content p{
   color: #858585;
   margin: 5px 0 20px 0;
+  font-size: 1.3rem;
 }
 .content .buttons{
   display: flex;
@@ -607,7 +612,7 @@ header.sticky{
   border: none;
   outline: none;
   color: #fff;
-  font-size: 16px;
+  font-size: var(--p-btn);
   font-weight: 500;
   border-radius: 5px;
   background: #2C7D7A;
@@ -622,6 +627,13 @@ header.sticky{
 }
 .buttons a{
   color: #2C7D7A;
+  transition: all 0.3s;
+}
+
+.buttons a:hover{
+  border: #2C7D7A solid 1px;
+  padding: 10px 20px;
+  border-radius: 5px;
 }
 
 /*responsividade*/
