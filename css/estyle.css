@@ -328,6 +328,7 @@ header.sticky{
     -moz-column-gap: 40px;
     column-gap: 40px;
     word-spacing: -3px;
+    font-weight: 300;
 }
 
 .sub-box:hover{
