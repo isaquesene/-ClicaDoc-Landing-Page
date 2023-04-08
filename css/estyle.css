@@ -292,7 +292,7 @@ header.sticky{
     grid-template-columns: repeat(auto-fit, minmax(220px, auto));
     grid-gap: 2rem;
     align-items: center;
-    text-align: justify;
+    text-align: center;
 }
 
 .sub-box{
