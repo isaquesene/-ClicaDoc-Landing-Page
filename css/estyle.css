@@ -323,6 +323,8 @@ header.sticky{
     text-justify: inter-word;
     margin: 0 auto;
     word-spacing: 0px;
+    font-weight: 300;
+    text-indent: 10px;
 }
 
 .sub-box:hover{
@@ -373,8 +375,6 @@ header.sticky{
     margin: 0 auto;
     justify-content: center;
     word-spacing: 0px;
-    font-weight: 300;
-    text-indent: 10px;
 }
 
 /* Fronte do Roda pe */
