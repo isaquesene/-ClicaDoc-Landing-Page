@@ -316,7 +316,7 @@ header.sticky{
 }
 
 .sub-box p{
-    font-size: var(--p-font);
+    font-size: 1rem;
     color: var(--text-color);
     line-height: 20px;
     text-align: justify;
