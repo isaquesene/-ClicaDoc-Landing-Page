@@ -371,6 +371,7 @@ header.sticky{
     text-justify: inter-word;
     margin: 0 auto;
     justify-content: center;
+    word-spacing: 0px;
 }
 
 /* Fronte do Roda pe */
