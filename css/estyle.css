@@ -327,7 +327,7 @@ header.sticky{
     -webkit-column-gap: 40px;
     -moz-column-gap: 40px;
     column-gap: 40px;
-    word-spacing: -3px;
+    word-spacing: -1px;
     font-weight: 300;
 }
 
