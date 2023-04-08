@@ -744,13 +744,10 @@ header.sticky{
         padding: 10px 10px;
     }
 
-    .receita-img img{
-        max-width: 100%;
-        width: 250px;
-        height: auto;
-        text-align: center;
-        justify-content: center;
-        padding: 10px 10px;
+    .especial-text p{
+        text-align: justify;
+        word-spacing: 0px;
+        text-indent: 10px;
     }
     
     .especial-img img{
