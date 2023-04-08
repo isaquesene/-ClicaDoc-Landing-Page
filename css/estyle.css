@@ -320,11 +320,14 @@ header.sticky{
     color: var(--text-color);
     line-height: 20px;
     text-align: justify;
-    text-justify: inter-word;
+    -webkit-columns: 250px 3;
+    -moz-columns: 250px 3;
+    columns: 250px 3;
     margin: 0 auto;
-    word-spacing: 0px;
-    font-weight: 300;
-    text-indent: 20px;
+    -webkit-column-gap: 40px;
+    -moz-column-gap: 40px;
+    column-gap: 40px;
+    word-spacing: -3px;
 }
 
 .sub-box:hover{
