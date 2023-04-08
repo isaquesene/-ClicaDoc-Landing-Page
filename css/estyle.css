@@ -323,7 +323,6 @@ header.sticky{
     -webkit-columns: 250px 3;
     -moz-columns: 250px 3;
     columns: 250px 3;
-    margin: 0 auto;
     -webkit-column-gap: 40px;
     -moz-column-gap: 40px;
     column-gap: 40px;
