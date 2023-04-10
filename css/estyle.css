@@ -319,7 +319,7 @@ header.sticky{
     font-size: 1.4rem;
     color: var(--text-color);
     line-height: 20px;
-    text-align: justify;
+    
     -webkit-columns: 250px 3;
     -moz-columns: 250px 3;
     columns: 250px 3;
