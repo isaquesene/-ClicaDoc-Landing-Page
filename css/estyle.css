@@ -476,6 +476,11 @@ header.sticky{
     height: 50px;
 }
 
+#div-fixa a .flx-itens{
+    display: flex;
+    text-align: center;
+}
+
 
 .ends{
     text-align: center;
