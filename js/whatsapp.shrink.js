@@ -3,6 +3,7 @@ const content = document.querySelector('[data-shrink="yes"]');
 
 const span = document.querySelector('[data-shrink="yes"] span')
 
+span.classList.add('aparecer')
 
 setInterval(function(){
     content.classList.toggle('shrink')
