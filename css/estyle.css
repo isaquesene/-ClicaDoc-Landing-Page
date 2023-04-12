@@ -481,7 +481,7 @@ header.sticky{
     align-items: center;
 }
 
-#div-fixa a .flex-itens span{
+#div-fixa a .flex-itens h3{
     display: block;
     font-family: 'Century Gothic';
     font-weight: bold;
