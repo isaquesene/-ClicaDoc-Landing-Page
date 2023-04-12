@@ -488,6 +488,25 @@ header.sticky{
     font-size: var(--p-btn);
 }
 
+.flutuar{
+    animation-name: flutuar;
+    animation-duration: 0.7s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes flutuar {
+    from{
+        transform: translate3d(0,0,0);
+        filter: brightness(100%);
+    }
+    to{
+        transform: translate3d(0,-15px,0);
+        filter: brightness(150%);
+    }
+}
+
 
 .ends{
     text-align: center;
