@@ -10,5 +10,5 @@ setInterval(function(){
 
 
 setInterval(function(){
-    span.classList.toggle('shrink')
-}, 5000)
+    span.classList.toggle('aparecer')
+}, 1000)
