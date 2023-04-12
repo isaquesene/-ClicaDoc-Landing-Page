@@ -485,7 +485,7 @@ header.sticky{
     display: block;
     font-family: 'Century Gothic';
     color: #ffffff;
-    font-size: var(--p-btn);
+    font-size: 18px;
 }
 
 .flutuar{
