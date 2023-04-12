@@ -459,6 +459,23 @@ header.sticky{
 }
 
 
+/*--whatsapp--*/
+#div-fixa{
+    position: fixed;
+    bottom: 20px;
+    margin: 0 20px;
+    background: rgb(89, 255, 122);
+    width: 230px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+#div-fixa img{
+    width: 50px;
+    height: 50px;
+}
+
+
 .ends{
     text-align: center;
     padding: 40px;
