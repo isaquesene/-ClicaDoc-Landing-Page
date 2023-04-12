@@ -484,7 +484,6 @@ header.sticky{
 #div-fixa a .flex-itens span{
     display: block;
     font-family: 'Century Gothic';
-    font-weight: bold;
     color: #ffffff;
     font-size: var(--p-btn);
 }
