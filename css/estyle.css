@@ -498,6 +498,11 @@ header.sticky{
     min-width: 170px;
 }
 
+
+#div-fixa a .flex-itens span.aparecer{
+    transition: 0.5s all;
+}
+
 .flutuar{
     animation-name: flutuar;
     animation-duration: 0.7s;
