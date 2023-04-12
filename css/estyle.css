@@ -476,7 +476,7 @@ header.sticky{
     height: 50px;
 }
 
-#div-fixa a .flx-itens{
+#div-fixa a .flex-itens{
     display: flex;
     align-items: center;
 }
