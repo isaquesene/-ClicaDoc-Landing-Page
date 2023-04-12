@@ -501,7 +501,7 @@ header.sticky{
     opacity: 1;
 }
 
-.flutuar{
+/*.flutuar{
     animation-name: flutuar;
     animation-duration: 0.7s;
     animation-iteration-count: infinite;
@@ -518,7 +518,7 @@ header.sticky{
         transform: translate3d(0,-15px,0);
         filter: brightness(150%);
     }
-}
+}*/
 
 .ends{
     text-align: center;
