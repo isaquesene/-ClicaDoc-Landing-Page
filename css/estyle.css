@@ -105,10 +105,11 @@ a{
     font-weight: bold;
     opacity: 1;
     gap: 2px;
+    transition: 0.3s all ease-in-out;
 }
 
 .top-btn-w:hover{
-    background: rgb(30, 122, 48);
+    background: #2eb943;
 }
 
 .top-btn-w img{
