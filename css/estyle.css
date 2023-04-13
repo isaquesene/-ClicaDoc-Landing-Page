@@ -145,6 +145,7 @@ a{
 section{
     padding: 100px 18%;
     background-color:  #F4FFFF;
+    justify-content: space-between;
 }
 
 .home{
