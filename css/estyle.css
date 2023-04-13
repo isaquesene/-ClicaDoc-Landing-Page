@@ -91,7 +91,7 @@ a{
 
 .top-btn-w{
     display: inline-block;
-    padding: 9px 15px;
+    padding: 6px 15px;
     background: transparent;
     border-radius: 30px;
     font-size: var(--p-btn);
