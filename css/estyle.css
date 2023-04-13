@@ -841,7 +841,7 @@ header.sticky{
     }
     .home-text{
         padding-top: 55px;
-        text-align: left;
+        text-align: justify;
     }
     .home-img{
         text-align: center;
