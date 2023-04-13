@@ -775,7 +775,7 @@ header.sticky{
 @media (max-width: 970px){
     #menu-icon{
         display: inline-block;
-        gap: 10px;
+        gap: 1px;
     }
     .home{
         min-height: 80vh;
