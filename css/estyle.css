@@ -135,7 +135,7 @@ a{
 }
 
 .top-btn::before{
-    content: 'QUERO SER ATENDIDO AGORA';
+    display: none;
 }
 
 /*----FIM HEADER-----*/
