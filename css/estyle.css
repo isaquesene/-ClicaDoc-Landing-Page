@@ -183,6 +183,7 @@ section{
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
+    margin: 3px;
 }
 
 span{
@@ -196,6 +197,7 @@ span{
     font-size: var(--p-font);
     line-height: 28px;
     margin-bottom: 20px;
+    letter-spacing: 0.02em;
 }
 
 .btn{
