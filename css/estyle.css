@@ -46,7 +46,7 @@ header{
     align-items: center;
     justify-content: space-between;
     background: rgb(244,255,255, 0.8);
-    padding: 30px 40%;
+    padding: 30px 10%;
     transition: .3s;
 }
 
