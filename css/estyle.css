@@ -799,6 +799,10 @@ header.sticky{
     .navlist.active{
         top: 100%;
     }
+
+    .top-btn-w{
+        font-size: 8px;
+    }
 }
 
 @media (max-width: 800px){
