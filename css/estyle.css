@@ -104,6 +104,12 @@ a{
 
 }
 
+.top-btn-w img{
+    max-width: 100%;
+    width: 120px;
+    height: auto;
+}
+
 .top-btn{
     display: inline-block;
     padding: 9px 30px;
