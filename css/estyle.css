@@ -44,7 +44,7 @@ header{
     z-index: 1000;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    gap: 10px;
     background: rgb(244,255,255, 0.8);
     padding: 30px 15%;
     transition: .3s;
@@ -740,7 +740,9 @@ header.sticky{
     header{
         padding: 16px 3%;
         transition: .3s;
+
     }
+
     header.sticky{
         padding: 10px 3%;
         transition: .3s;
