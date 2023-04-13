@@ -327,7 +327,7 @@ header.sticky{
     padding: 45px 45px 45px 45px;
     transition: ease .50s;
     cursor: pointer;
-    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.20);
 }
 
 .sub-img img{
@@ -356,6 +356,10 @@ header.sticky{
     column-gap: 40px;
     word-spacing: -1px;
     font-weight: 400;
+}
+
+.sub-box:hover{
+    transform: scale(1.1);
 }
 
 /*.sub-box:hover{
