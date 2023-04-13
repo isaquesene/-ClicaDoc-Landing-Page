@@ -813,6 +813,10 @@ header.sticky{
         content: "ATENDIMENTO";
     }
 
+    .top-btn-w{
+        padding: 5px 10px;
+    }
+
     .top-btn-w .fale{
         font-weight: 400;
         font-size: 14px;
