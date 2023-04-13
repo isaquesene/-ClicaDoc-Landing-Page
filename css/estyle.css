@@ -89,7 +89,8 @@ a{
     display: none;
 }
 
-.top-btn-w{
+.top-btn-w::before{
+    content: 'Fale conosco!';
     display: inline-block;
     padding: 5px 15px;
     background: transparent;
@@ -112,10 +113,6 @@ a{
     display:inline-block; 
     vertical-align:middle; 
     margin-right:10px;
-}
-
-.top-btn-w a::before{
-    content: 'Fale conosco!';
 }
 
 .top-btn{
