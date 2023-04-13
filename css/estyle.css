@@ -114,7 +114,7 @@ a{
     margin-right:10px;
 }
 
-.top-btn-w::before{
+.top-btn-w a::before{
     content: 'Fale conosco!';
 }
 
