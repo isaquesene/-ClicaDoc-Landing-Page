@@ -823,6 +823,10 @@ header.sticky{
         content: "ATENDIMENTO";
     }
 
+    .top-btn-w .fale{
+        font-weight: none;
+    }
+
     .btn-receita .btn{
         align-items: center;
     }
