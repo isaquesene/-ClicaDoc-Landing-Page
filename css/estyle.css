@@ -810,7 +810,7 @@ header.sticky{
     }
 
     .top-btn-w::before{
-        padding: 1px;
+        padding: 0px;
         content: "";
     }
 
