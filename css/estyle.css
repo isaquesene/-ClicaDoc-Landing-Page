@@ -760,7 +760,7 @@ header.sticky{
         transition: .3s;
     }
 
-    .top-btn-w span{
+    .top-btn-w .fale{
         display: none;
     }
 }
