@@ -822,9 +822,6 @@ header.sticky{
         font-size: 1rem;
         content: "ATENDIMENTO";
     }
-    .top-btn-w img{
-        padding: 5px;
-    }
 
     .btn-receita .btn{
         align-items: center;
