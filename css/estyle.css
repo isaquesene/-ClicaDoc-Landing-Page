@@ -114,10 +114,6 @@ a{
     margin-right:10px;
 }
 
-.top-btn-w::before{
-    content: 'Fale conosco!';
-}
-
 .top-btn{
     display: inline-block;
     padding: 9px 30px;
