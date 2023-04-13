@@ -735,6 +735,12 @@ header.sticky{
 }
 
 /*responsividade*/
+@media (max-width: 1000px){
+    .top-btn-w .fale{
+        display: none;
+    }
+}
+
 
 @media (max-width: 1250px){
     header{
