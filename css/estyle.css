@@ -103,6 +103,7 @@ a{
     color: #ffffff;
     font-weight: bold;
     opacity: 1;
+    gap: 4px;
 }
 
 .top-btn-w img{
