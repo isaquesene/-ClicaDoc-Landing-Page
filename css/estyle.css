@@ -760,6 +760,11 @@ header.sticky{
         transition: .3s;
     }
 
+    .top-btn-w .fale{
+        color: #F4FFFF;
+        font-weight: bold;
+    }
+
 }
 
 
