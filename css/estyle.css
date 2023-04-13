@@ -45,7 +45,7 @@ header{
     display: flex;
     align-items: center;
     gap: 7px;
-    justify-content: center;
+    justify-content: space-around;
     background: rgb(244,255,255, 0.8);
     padding: 30px 15%;
     transition: .3s;
