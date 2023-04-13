@@ -358,13 +358,13 @@ header.sticky{
     font-weight: 400;
 }
 
-.sub-box:hover{
+/*.sub-box:hover{
     background: #ffffff;
     box-shadow: 18px 0px 87px 0px rgba(8, 12, 57, 0.09);
     border-radius: 12px;
     will-change: transform;
     transform: perspective(1000px) rotateX(4.80deg) rotateY(10.23deg) scale3d(1.05, 1.05, 1.05);
-}
+}*/
 
 .sub-saude{
     background: #ffffff;
