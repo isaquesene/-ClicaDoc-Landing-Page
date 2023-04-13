@@ -879,8 +879,5 @@ header.sticky{
         --big-font: 3.4rem;
         --h2-font: 2rem;
     }
-    section{
-        padding: 65px 3%;
-        transition: .3s;
-    }
+    
 }
