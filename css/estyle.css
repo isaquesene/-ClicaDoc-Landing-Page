@@ -112,6 +112,10 @@ a{
     background: #2eb943;
 }
 
+.top-btn-w .fale::before{
+    content: "Fale conosco!";
+}
+
 .top-btn-w img{
     width: 30px;
     height: 30x;
@@ -823,8 +827,8 @@ header.sticky{
         content: "ATENDIMENTO";
     }
 
-    .top-btn-w .fale{
-        font-weight: none;
+    .top-btn-w .fale::before{
+       content: "WhatsApp";
     }
 
     .btn-receita .btn{
