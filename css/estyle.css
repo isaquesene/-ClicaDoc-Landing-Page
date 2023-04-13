@@ -806,6 +806,43 @@ header.sticky{
 }
 
 @media (max-width: 800px){
+    #menu-icon{
+        display: inline-block;
+        gap: 30px;
+    }
+    .home{
+        min-height: 80vh;
+    }
+    .navlist{
+        position: absolute;
+        top: -600px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: #0ABAB5;
+        text-align: right;
+        transition: all .40s;
+    }
+    .navlist li a{
+        display: block;
+        padding: 1.2rem;
+        margin: 1.5rem;
+        border-right: 2px solid var(--bg-color);
+        color: var(--bg-color);
+    }
+    .navlist li a:hover{
+        background: var(--bg-color);
+        color: var(--main-color);
+    }
+
+    .navlist li a::after{
+        display: none;
+    }
+
+    .navlist.active{
+        top: 100%;
+    }
+
     .top-btn::before{
         font-size: 1rem;
         content: "ATENDIMENTO";
