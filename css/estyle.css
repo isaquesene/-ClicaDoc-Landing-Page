@@ -112,7 +112,7 @@ a{
     background: #2eb943;
 }
 
-.top-btn-w.fale::before{
+.fale::before{
     content: "Fale conosco!";
 }
 
@@ -827,7 +827,7 @@ header.sticky{
         content: "ATENDIMENTO";
     }
 
-    .top-btn-w.fale::before{
+    .fale::before{
        content: "WhatsApp";
     }
 
