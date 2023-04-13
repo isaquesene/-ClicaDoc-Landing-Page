@@ -765,6 +765,7 @@ header.sticky{
     .top-btn-w .fale{
         color: #F4FFFF;
         font-weight: bold;
+        font-size: var(--p-btn);
     }
 
 }
