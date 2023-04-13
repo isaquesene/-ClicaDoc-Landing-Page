@@ -107,6 +107,10 @@ a{
     gap: 2px;
 }
 
+.top-btn-w:hover{
+    background: rgb(30, 122, 48)
+}
+
 .top-btn-w img{
     width: 30px;
     height: 30x;
