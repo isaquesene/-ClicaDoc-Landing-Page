@@ -327,7 +327,7 @@ header.sticky{
     padding: 45px 45px 45px 45px;
     transition: ease .50s;
     cursor: pointer;
-    box-shadow: 18px 0px 87px 0px rgba(8, 12, 57, 0.07);
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
 }
 
 .sub-img img{
