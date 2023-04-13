@@ -805,9 +805,8 @@ header.sticky{
         content: "ATENDIMENTO";
     }
 
-    .top-btn-w::before{
-        padding: 0px;
-        content: "";
+    .top-btn-w{
+        display: none;
     }
 
     .btn-receita .btn{
