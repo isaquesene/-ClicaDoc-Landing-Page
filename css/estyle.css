@@ -759,6 +759,10 @@ header.sticky{
         --p-font: 1.3rem;
         transition: .3s;
     }
+
+    .top-btn-w{
+        font-size: 8px;
+    }
 }
 
 
@@ -798,10 +802,6 @@ header.sticky{
 
     .navlist.active{
         top: 100%;
-    }
-
-    .top-btn-w{
-        font-size: 8px;
     }
 }
 
