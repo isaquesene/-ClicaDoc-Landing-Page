@@ -806,9 +806,9 @@ header.sticky{
     }
 
     .top-btn-w a{
-        overflow: none;
+        overflow: hidden;
     }
-    
+
     .btn-receita .btn{
         align-items: center;
     }
