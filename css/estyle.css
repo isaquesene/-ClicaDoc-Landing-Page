@@ -806,7 +806,7 @@ header.sticky{
     }
 
     .top-btn-w::before{
-        overflow: hidden;
+       display: none;
     }
 
     .btn-receita .btn{
