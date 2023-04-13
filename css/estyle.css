@@ -107,6 +107,9 @@ a{
 .top-btn-w img{
     width: 20px;
     height: 20x;
+    display:inline-block; 
+    vertical-align:middle; 
+    margin-right:10px;
 }
 
 .top-btn{
