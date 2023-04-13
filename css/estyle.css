@@ -810,11 +810,7 @@ header.sticky{
     }
 
     .top-btn-w::before{
-        width: 30px;
-        height: 30x;
-        display:inline-block; 
-        vertical-align:middle; 
-        margin-right:10px;
+        padding: auto;
         content: "";
     }
 
