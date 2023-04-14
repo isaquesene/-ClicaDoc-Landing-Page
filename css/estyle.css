@@ -775,6 +775,10 @@ header.sticky{
         transition: .3s;
     }
 
+    .top-btn-w{
+        font-size: 16px;
+    }
+
     .top-btn-w .fale{
         color: #F4FFFF;
         font-weight: bold;
