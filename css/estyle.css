@@ -789,7 +789,7 @@ header.sticky{
 
 
 
-@media (max-width: 980px){
+@media (max-width: 1000px){
     #menu-icon{
         display: inline-block;
         gap: 1px;
