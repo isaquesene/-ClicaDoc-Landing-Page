@@ -794,6 +794,10 @@ header.sticky{
         transition: .3s;
     }
 
+    section{
+        padding: 100px 6%;
+    }
+
     :root{
         --big-font: 3.5rem;
         --h2-font: 2.5rem;
