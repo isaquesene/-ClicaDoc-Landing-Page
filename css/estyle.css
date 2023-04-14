@@ -44,7 +44,7 @@ header{
     z-index: 1000;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background: rgb(244,255,255, 0.8);
     padding: 30px 15%;
     transition: .3s;
