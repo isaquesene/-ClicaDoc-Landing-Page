@@ -874,6 +874,7 @@ header.sticky{
 
     .especial-text p{
         font-family: 'Century Gothic';
+        text-align: center;
     }
 
     .especial-img img{
