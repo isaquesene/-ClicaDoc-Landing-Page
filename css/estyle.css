@@ -921,9 +921,12 @@ header.sticky{
         --big-font: 3.4rem;
         --h2-font: 2rem;
     }
+
     section{
-        padding: 100px 6%;
+        padding: 70px 3%;
+        transition: .3s;
     }
+    
     header{
         padding: 16px 1.1%;
         transition: .3s;
