@@ -791,6 +791,13 @@ header.sticky{
         padding: 10px 3%;
         transition: .3s;
     }
+
+    :root{
+        --big-font: 3.5rem;
+        --h2-font: 2.5rem;
+        --p-font: 1.5rem;
+        transition: .3s;
+    }
 }
 
 
