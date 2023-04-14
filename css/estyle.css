@@ -765,7 +765,8 @@ header.sticky{
     }
 
     section{
-        padding: 100px 6%;
+        padding: 70px 3%;
+        transition: .3s;
     }
 
     :root{
