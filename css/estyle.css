@@ -760,6 +760,11 @@ header.sticky{
         padding: 10px 3%;
         transition: .3s;
     }
+
+    section{
+        padding: 100px 6%;
+    }
+
     .contact{
         width: 100%;
         transition: .3s;
