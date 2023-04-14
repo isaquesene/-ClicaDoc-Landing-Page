@@ -780,7 +780,7 @@ header.sticky{
 }
 
 
-@media(min-width:1250px){
+@media(max-width:1250px){
     header{
         padding: 16px 3%;
         transition: .3s;
