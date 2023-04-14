@@ -114,6 +114,7 @@ a{
 
 .fale::before{
     content: "Fale conosco!";
+    color: #FFFFFF;
 }
 
 .top-btn-w img{
